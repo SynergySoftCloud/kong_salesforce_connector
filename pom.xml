@@ -58,7 +58,7 @@ OR as a snazzy new standalone jar with shaded dependencies
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
     <artifactId>httpclient</artifactId>
-    <version>4.5.12</version>
+    <version>4.5.13</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
